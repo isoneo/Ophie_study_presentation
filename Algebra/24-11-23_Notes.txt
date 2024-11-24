@@ -1,0 +1,179 @@
+Parabolas
+Parabola is set of points on a plane equal distance from the directix and fixed point (focus)
+
+No rapper.
+
+
+News highlight.
+- Biden has authorized US missile usage into Russian territory
+
+Ex. Problem by OPHIE Solve algeberically
+
+Equation 1
+y=(x-2)^2-1
+(x-2) (x-2)-1
+x^2 -2x -2x +4-1
+x^2-4x+3
+
+Equation 2
+y=-x+7
+
+Solving for both y
+-x+7=x^2-4x+3
+x^2-4x-4
+
+
+
+LWH version
+-x+7 = x^2-4x+3
+
+x^2-4x+3 - (-x+7) = 0
+x^2 -4x + 3 + x - 7 = 0
+
+
+
+x^2 -3x -4=0
+ab = -4
+a + b  = -3
+
+-4 (  a times b)
+
+-4 and 1
+
+(x + a) (x + b) = 0
+
+a = -4
+b = 1
+
+x equal 1,-4
+y equals 6, 11
+
+(1,6), (-4,11)
+
+
+y= -x+7
+
+y = 6
+y = 11
+
+
+
+
+### x is unknown a, b is some number
+(x+a) (x + b) = 0
+x^2 + (a+b)x + ab = 0
+
+
+
+
+#### Problem 2
+Solve equation
+
+equation 1
+y = (x-4)^2-1
+
+
+equation 2
+y = x-3
+
+
+(x+a) (x + b) = 0
+x^2 + (a+b)x + ab = 0
+
+(x-4)^2-1   =     x-3
+x^2-8x+15 = x-3
+
+x^2-8x+15 -(x-3)   = (x-3) - (x-3)
+x^2 -9x + 12=0
+
+
+
+### General way to solve for x
+ax^2 + bx + c = 0
+
+a,b,c is numbers
+
+x is unknown
+x^2 -9x + 12=0
+
+
+x^2 + (a+b)x + ab = 0
+
+ab = 12 ( 1,12 or 3,4 or 6,2 )
+ab is positive   ====>   a,b both the same sign
+
+ a + b = 13 , -13,  7 , -7, 8, -8
+
+
+
+
+
+
+
+a = 1
+b = - 9
+c = 12
+
+
+x  =  ( - b  +/- squareroot(b^2-4ac) ) / 2a
+
+
+x =( 9 +/- squareroot( 81 - 4* 1 * 12) ) /2
+
+x = ( 9 +/- 5.7445626465) / 2
+14.7445626465 / 2
+
+
+
+
+
+
+Directicts????
+Focus?????
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x^2-8x+15+x-3 = 0
+
+a =-4
+b =-4
+
+
+
+ 10   =      15 - 5
+
+10 +5  = 15 - 5 + 5
+
+
+
+x + a = x - b
+
+(x+a)  - (x - b) = (x - b)  - (x - b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
